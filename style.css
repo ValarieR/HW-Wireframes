@@ -1,0 +1,34 @@
+body { width: 960px;
+		background-color: #777;
+		text-align: center;
+		font-family: sans-serif; }
+
+.wide-white { background-color: #ebebeb;
+		height: 75px;
+		padding: 20px;
+		width: 90%; }
+
+.narrow-white { width: 42.4%;
+		background-color: #ebebeb;
+		padding: 20px; }
+
+#article { position: relative;
+		background-color: #777;
+		padding: 20px; }
+
+#aside { float: left; 
+		margin-left: 10px;
+		margin-top: -18px;
+		height: 269px;}
+
+#section { float: left; 
+		margin-bottom: 10px;}
+
+footer { margin-bottom: 50px;
+		clear: left;
+		padding: 20px;
+		margin-top: 10px; }
+
+#white-boxes { background-color: #ebebeb;
+		padding-left: 20px;
+		height: 50px;}
